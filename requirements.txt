@@ -96,7 +96,7 @@ numpydoc==0.8.0
 opencv-python==4.7.0.72
 overrides==1.9
 packaging==19.0
-pandas==0.24.1
+pandas==0.24.2
 parsimonious==0.8.1
 parso==0.5.1
 pbr==5.1.3
